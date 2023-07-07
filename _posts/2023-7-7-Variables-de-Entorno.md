@@ -51,21 +51,15 @@ Cómo primera instancia tenemos que instalar la librería `dotenv` de la siguien
 
 <u>NPM</u>
 
-```bash
-npm install dotenv
-```
+`npm install dotenv`
 
 <u>PNPM</u>
 
-```bash
-pnpm install dotenv
-```
+`pnpm install dotenv`
 
 <u>YARN</u>
 
-```bash
-yarn add dotenv
-```
+`yarn add dotenv`
 
 **Recuerden ejecutar estos comandos en la terminal siempre ubicados en la carpeta donde tienen el package.json**
 
@@ -124,3 +118,6 @@ server.listen(PORT, () => {
 ```
 
 Ahora al iniciar el servidor con `npm start` les mostrara
+
+![Esta es una imagen de ejemplo](/images/Terminal.png)
+
