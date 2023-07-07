@@ -23,7 +23,7 @@ A fines prácticos les dejare un pequeño proyecto en Github en el que solo van 
 
 Y va a tener la siguiente estructura:
 
-
+```
 \---api
     |   index.js
     |   package.json
@@ -39,17 +39,12 @@ Y va a tener la siguiente estructura:
         +---routes
         |       index.js
         |
-
         ---utils
-
         | app.js
-
         | db.js        
-
 | .gitignore
-
 | README.md
-
+```
 
 
 Cómo primera instancia tenemos que instalar la librería `dotenv` de la siguiente manera dependiendo de su gestor de paquetes:
@@ -60,15 +55,11 @@ Cómo primera instancia tenemos que instalar la librería `dotenv` de la siguien
 npm install dotenv
 ```
 
-
-
 <u>PNPM</u>
 
 ```bash
 pnpm install dotenv
 ```
-
-
 
 <u>YARN</u>
 
