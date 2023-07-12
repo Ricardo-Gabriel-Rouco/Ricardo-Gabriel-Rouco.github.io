@@ -119,5 +119,7 @@ server.listen(PORT, () => {
 
 Ahora al iniciar el servidor con `npm start` les mostrara
 
-![Esta es una imagen de ejemplo](/images/Terminal.png)
+![](/images/Terminal.png)
+
+Ahora probemos de cambiar directamente el puerto desde nuestro archivo `.env`, modificamos el numero de puerto por ejemplo por un 4000.
 
